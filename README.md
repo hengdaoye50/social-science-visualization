@@ -1,5 +1,9 @@
 # Social Science Visualization
 
+> [!IMPORTANT]
+> **Repository import in progress / 仓库源码导入尚未完成。** The README documents the v2.0.0 package, but the source folders referenced below (`scripts/`, `references/`, `assets/`, `examples/`, `tests/`) have not yet been uploaded to GitHub. Do not run the listed commands from this checkout until the import is complete. See [UPLOAD_STATUS.md](UPLOAD_STATUS.md).
+
+
 **A research-first Agent Skill for reproducible visualization in the social sciences.**  
 **社会科学学术可视化：从研究问题、数据口径与推断边界出发，而不止于生成一张漂亮的图。**
 
