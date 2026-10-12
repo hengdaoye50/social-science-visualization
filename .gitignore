@@ -11,3 +11,7 @@ venv/
 dist/
 build/
 *.egg-info/
+examples/demo_output/
+examples/v2_output/
+adapters/deepseek-harness/skill/
+adapters/deepseek-harness/*.tgz

@@ -1,0 +1,19 @@
+{
+  "status": "demo",
+  "source": "Invented synthetic fixture for code testing; NO observational data",
+  "unit_of_analysis": "synthetic demonstration rows",
+  "population": "not applicable: demo",
+  "time_window": "fictional years 2001–2006",
+  "unit": "Illustrative index",
+  "missingness": "Blanks are missing, not zero",
+  "weights": "none",
+  "transformations": "None; source values passed through",
+  "data_restrictions": "Public fake example, never cite as empirical evidence",
+  "caption": "Synthetic mock data only. No empirical finding or statistical interpretation.",
+  "alt_text": "A chart drawn from invented test values; not research findings.",
+  "denominator": "not applicable",
+  "n_observations": null,
+  "figure_id": "fig-2-trend",
+  "title": "Synthetic trend / NOT RESEARCH",
+  "question": "Illustrate rendering of trend"
+}

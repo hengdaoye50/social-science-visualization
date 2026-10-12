@@ -1,0 +1,49 @@
+{
+  "figure_id": "fig-01",
+  "title": "请填写图题",
+  "status": "research",
+  "question": "这张图具体回答哪个研究问题？",
+  "design": "descriptive",
+  "data": {
+    "source": "资料来源、文件版本或合法访问描述",
+    "source_kind": "observed",
+    "unit_of_analysis": "例如：省份-年份",
+    "population": "研究总体及筛选条件",
+    "time_window": "例如：2000—2025",
+    "n_observations": null,
+    "missingness": "NA 与零值如何区分和处理",
+    "weights": "无/抽样权重/人口权重等",
+    "transformations": "从原始数据到图上数据的变换"
+  },
+  "inference": {
+    "estimand": "描述量/参数/处理效应或不适用",
+    "method": "无推断/模型与估计器说明",
+    "uncertainty": "如：95% CI（计算方法）或不适用",
+    "standard_errors": "如：区县聚类/不适用",
+    "reference_group": "如：对照组/事件时间-1/不适用"
+  },
+  "chart": {
+    "x_label": "x轴及单位",
+    "y_label": "y轴及单位",
+    "denominator": "分母或不适用",
+    "caption": "含来源、样本、口径、区间和关键边界的图注",
+    "alt_text": "简洁描述所示数据模式和关键尺度"
+  },
+  "provenance": {
+    "code": "相对于 manifest 的绘图脚本路径",
+    "input_files": [],
+    "data_restrictions": "公开/保密/授权摘要等"
+  },
+  "exports": {
+    "png": "fig-01.png",
+    "svg": "fig-01.svg",
+    "pdf": "fig-01.pdf"
+  },
+  "review": {
+    "numeric_verified": false,
+    "visual_verified": false,
+    "method_verified": false,
+    "reviewer": "",
+    "notes": "待核验项目"
+  }
+}

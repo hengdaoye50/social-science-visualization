@@ -1,0 +1,36 @@
+{
+  "name": "dsh-social-science-visualization",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DeepSeek Harness Cordis bundle for the Social Science Visualization v2.0 Skill.",
+  "type": "module",
+  "main": "./index.js",
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "skill/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "social-science",
+    "visualization",
+    "skill"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "license": "MIT",
+  "scripts": {
+    "stage": "node scripts/stage.mjs",
+    "prepack": "node scripts/stage.mjs",
+    "test": "node scripts/stage.mjs && node --test test.mjs"
+  }
+}
